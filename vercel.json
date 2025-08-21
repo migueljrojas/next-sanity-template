@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/studio/(.*)", "headers": { "Cache-Control": "no-store" } }
+  ]
+}
